@@ -1,4 +1,8 @@
 h
 ola
 god save the queen
+<<<<<<< HEAD
 ok?
+=======
+y ahora?
+>>>>>>> rama2
